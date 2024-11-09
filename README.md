@@ -28,11 +28,4 @@ The project is organized to allow modular development and scalability:
 - **src/pages**: Contains the main pages of the gallery, each focusing on different collections or exhibits.
 - **src/styles**: Contains global styles and theme definitions using styled-components, enabling a consistent and responsive design.
 
-## What I Learned
-
-This project provided valuable insights into:
-
-- **TypeScript Integration in React**: Using TypeScript in a React project improved type safety and helped me catch issues early in the development process.
-- **API Integration with React**: Fetching and rendering data from the Chicago Museum of Art API in real-time taught me best practices for handling asynchronous data and dynamic content.
-- **Responsive Design with styled-components**: Leveraging styled-components for both styling and responsive layouts enhanced my understanding of CSS-in-JS and responsive design principles.
 
