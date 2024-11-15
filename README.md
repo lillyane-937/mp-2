@@ -24,8 +24,5 @@ This project leverages **React** and **TypeScript** to create a seamless, intera
 
 The project is organized to allow modular development and scalability:
 
-- **src/components**: Houses reusable components for different sections of the gallery, including artwork cards, navigation, and headers.
-- **src/pages**: Contains the main pages of the gallery, each focusing on different collections or exhibits.
-- **src/styles**: Contains global styles and theme definitions using styled-components, enabling a consistent and responsive design.
-
+- **src/components**: Houses reusable components for different sections of the gallery, the app component used for API handling, and a component used for the user interface. 
 
